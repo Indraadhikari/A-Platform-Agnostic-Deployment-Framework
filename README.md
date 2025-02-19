@@ -1,3 +1,5 @@
+# A Platform-Agnostic Deployment Framework for Machine Learning Models: A Case Study with an Image Accessibility Application
+
 **Abstract**
 
 This project explores the integration of DevOps practices into deploying machine learning (ML) models across various cloud platforms. It addresses the challenges of deploying across multiple cloud environments by proposing a platform-independent framework that automates provisioning and deployment through continuous integration (CI) and continuous delivery (CD). Utilizing tools like Terraform for infrastructure provisioning and GitLab CI/CD for deployment automation, the framework aims to enhance operational flexibility and reduce reliance on
