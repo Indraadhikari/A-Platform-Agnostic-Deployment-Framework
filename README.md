@@ -10,4 +10,4 @@ For our case study, we concentrated on developing a deployment strategy for an i
 
 **Keywords**: DevOps, CI/CI, GitLab, Image Accessibility Applications, Platform- agnostic, Automation, Microservices, Containerization, etc.
 
-**Note**: See User Manual in "Instruction Manual for Cloud Platform.pdf" and to access of this research please send a request to email "indraadhikari0@gmail.com".
+**Note**: See User Manual in "Instruction Manual for Cloud Platform.pdf" and, to full access of this research please send a request to email "indraadhikari0@gmail.com".
