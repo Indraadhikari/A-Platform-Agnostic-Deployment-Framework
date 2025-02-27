@@ -10,4 +10,11 @@ For our case study, we concentrated on developing a deployment strategy for an i
 
 **Keywords**: DevOps, CI/CI, GitLab, Image Accessibility Applications, Platform- agnostic, Automation, Microservices, Containerization, etc.
 
+# System Architecture
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/9c372793-ae5c-4760-88ed-bdcf14ee56ec" />
+
+# Comparing total deployment time between manual and automated approach.
+<img width="833" alt="image" src="https://github.com/user-attachments/assets/0573ff1c-5afa-45c5-8c49-8d9a76b7783f" />
+
+
 **Note**: See User Manual in "Instruction Manual for Cloud Platform.pdf" and, to full access of this research please send a request to email "indraadhikari0@gmail.com".
